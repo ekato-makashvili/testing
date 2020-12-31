@@ -1,1 +1,3 @@
-#This is an empty file
+#This is an empty 
+
+print("Some command is added")
